@@ -1,4 +1,4 @@
-# machineLearningExploration
+# Machine Learning Exploration
 This repository contains multiple machine learning algorithm implementations as well as explorations.
 
 
